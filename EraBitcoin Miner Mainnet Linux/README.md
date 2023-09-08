@@ -25,8 +25,6 @@ Go to Downloaded Folder and Open Terminal
 
 TO RUN SCRIPT OPEN TERMINAL IN FOLDER AND TYPE
 
-chmod u+x aEraBTC_Solo.sh
-
 ./aEraBTC_Solo.sh
 
 # edit the aEraBTC_Solo.sh file to edit your settings!!!
